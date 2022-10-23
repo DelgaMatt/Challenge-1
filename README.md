@@ -7,29 +7,28 @@ This project is a refactoring for the horiseon website. The purpose of the refac
 ## Links
 
 [Github Repository](https://github.com/DelgaMatt/Challenge-1.git)
+[Deployed Webpage](https://delgamatt.github.io/Challenge-1/)
 
 ## Installation
 
 Upload index.html, lisense.txt, and assets folder to the deployed webserver. The assets folder contains images and a CSS file.
 
-The deployed website linked above was deployed using Github Pages.
-
 ## Usage
 
 The website can be viewed in a traditional web browser. Though it is not yet optimized for smaller screens.
 
-![img](Develop/assets/images/Screen Shot 2022-10-22 at 7.27.15 PM (2).png)
+![img](/Users/matthewdelgado/Desktop/Code/bootcamp/Challenge-1/Develop/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
-Starter code provided by Xandromus (https://github.com/coding-boot-camp/urban-octo-telegram). Repository posted on February 13th, 2020.
+Starter code provided by Xandromus [Starter code Repo](https://github.com/coding-boot-camp/urban-octo-telegram). Repository posted on February 13th, 2020.
 
 ## License
 
-Please refer to the LICENSE in the repo.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.

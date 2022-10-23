@@ -41,6 +41,7 @@ body {
     margin-left: 25px;
 }
 
+/* text color of anchored links on header of webpage */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* properties of the largest center image on website */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* determines margins of boxes on right column and color of text */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -108,6 +110,7 @@ p {
     max-width: 150px;
 }
 
+/* spacing, organization and color themes amongst the three largest boxes towards left/center of webpage */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -132,6 +135,7 @@ p {
     font-size: 36px;
 }
 
+/* Ensuring the footer is discrete yet present and identifies copyright materials and creator of page */
 .footer {
     padding: 30px;
     clear: both;

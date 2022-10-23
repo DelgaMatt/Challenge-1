@@ -7,6 +7,7 @@ This project is a refactoring for the horiseon website. The purpose of the refac
 ## Links
 
 [Github Repository](https://github.com/DelgaMatt/Challenge-1.git)
+
 [Deployed Webpage](https://delgamatt.github.io/Challenge-1/)
 
 ## Installation
@@ -17,7 +18,7 @@ Upload index.html, lisense.txt, and assets folder to the deployed webserver. The
 
 The website can be viewed in a traditional web browser. Though it is not yet optimized for smaller screens.
 
-![img](/Users/matthewdelgado/Desktop/Code/bootcamp/Challenge-1/Develop/assets/images/01-html-css-git-homework-demo.png)
+![img](assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
@@ -26,7 +27,6 @@ Starter code provided by Xandromus [Starter code Repo](https://github.com/coding
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 ## Badges
 

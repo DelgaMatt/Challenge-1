@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,16 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* text color of anchored links on header of webpage */
+/* text color of anchored links on header of the webpage */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -87,6 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* determines margins of boxes on right column and color of text */
 .benefit-lead,
 .benefit-brand,

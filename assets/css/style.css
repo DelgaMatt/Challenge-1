@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* determines color of the entire background of webpage*/
 body {
     background-color: #d9dcd6;
 }
 
+/* the padding of the 'horiseon' name setting the thickness of the header and it's color. font and color of text. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +22,13 @@ body {
     font-size: 48px;
 }
 
+/* this is the color differentiation in the Horiseon logo. Associated with the specific 'h1' element with 'seo' class inside the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* specifically refering to the spacing of the links within header to the top and right of the header box.
+Float places an element on the left or right side of it's container, allowing text and inline elements to wrap around it */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;

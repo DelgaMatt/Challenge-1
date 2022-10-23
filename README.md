@@ -18,7 +18,7 @@ Upload index.html, lisense.txt, and assets folder to the deployed webserver. The
 
 The website can be viewed in a traditional web browser. Though it is not yet optimized for smaller screens.
 
-![img](assets/images/01-html-css-git-homework-demo.png)
+![img](assets/images/screenshot.png)
 
 ## Credits
 
